@@ -13,7 +13,7 @@ public class JavaExceptionExample{
         {  
          System.out.println("Parent Exception occurs");  
         }   
-            catch(ArithmeticException e)  
+            /*catch(ArithmeticException e)  
                {  
                 System.out.println("Arithmetic Exception occurs");  
                }    
